@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Dynamic Glowing Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,27,28&height=220&section=header&text=Hi%20there,%20I'm%20[Your%20Name]%20👋&fontSize=38&animation=twinkling&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,27,28&height=220&section=header&text=Hi%20there,%20I'm%20[muhamed%shazad]%20👋&fontSize=38&animation=twinkling&fontColor=ffffff" width="100%" />
 
   <!-- Animated Typing Text -->
   <a href="https://git.io/typing-svg">
