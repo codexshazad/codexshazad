@@ -1,47 +1,45 @@
-# Hi there, I'm [Your Name] 👋
-
-### 🎓 Computer Science & Engineering Student | Tech Enthusiast
-
-A passionate developer dedicated to building practical software solutions, exploring algorithm performance, and experimenting with emerging technologies.
-
----
-
-### 🛠️ Tech Stack & Skills
-
-**Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openapi-initiative&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Frameworks & Developer Tools**
-![JavaFX](https://img.shields.io/badge/JavaFX-FF0000?style=for-the-badge&logo=java&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux / WSL](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-### 📌 Featured Projects
-
-* **Gesture-Controlled Robotic Arm:** Hardware-software integration project using flex sensors and MPU6050 IMU modules for intuitive real-time arm positioning.
-* **Old Age Home Management System:** Java Swing desktop application designed for resident tracking, staff allocation, and medical/donation record logging.
-* **Blood Donation Management System:** Full-featured desktop portal connecting donors, recipients, and local hospitals to streamline requests.
-* **Processor & Cache Performance Analysis:** RISC-V 5-stage pipeline and TLB miss simulations executed using the gem5 simulator on WSL2.
-
----
-
-### 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radial" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radial" alt="Top Languages" width="48%" />
+
+  <!-- Dynamic Glowing Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,27,28&height=220&section=header&text=Hi%20there,%20I'm%20[Your%20Name]%20👋&fontSize=38&animation=twinkling&fontColor=ffffff" width="100%" />
+
+  <!-- Animated Typing Text -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5D4&width=500&lines=Computer+Science+%26+Engineering+Student;Hardware+%26+Embedded+Systems+Explorer;Full-Stack+%26+Java+Desktop+Developer;Algorithm+%26+Architecture+Enthusiast" alt="Typing SVG" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Interactive Badges with Hover Effects -->
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
 </div>
 
----
+<br/>
 
-### 📬 Connect With Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+### ⚡ Tech & Skill Matrix
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,python,postgres,git,linux,vscode,idea&perline=8" />
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+### 🚀 Showcase & Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🦾 Gesture-Controlled Robotic Arm</h4>
+      <p>Hardware-software integration using <b>flex sensors</b> & <b>MPU6050 IMU</b> modules for precise real-time motion tracking.</p>
+
 
